@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.therajedits290_bot.twa",
+        "sha256_cert_fingerprints": ["37:43:61:14:6B:4A:DA:D6:1A:01:CD:44:8B:9E:F4:DD:87:07:F8:8B:F7:0E:5A:64:5B:20:EB:7F:32:11:A0:05"]
+      }
+    }]
