@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nexcart.shop",
+      "sha256_cert_fingerprints": [
+        "F1:20:75:FB:14:9D:00:DA:65:7A:0E:A7:05:33:68:54:30:3C:54:2E:C2:33:D7:C9:BB:DE:7D:A0:51:5C:50:AB"
+      ]
+    }
+  }
+]
